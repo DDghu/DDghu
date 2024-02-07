@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science Project**
 
-- 👨‍💻 All of my projects are available at [https://ddghu.github.io/portfolio/]
+- 👨‍💻 All of my projects are available at [https://ddghu.github.io/portfolio/](https://ddghu.github.io/portfolio/)
 
 - 💬 Ask me about **Machine Learning**
 
